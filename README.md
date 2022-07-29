@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mateus 👋🏻</h1>
 <h3 align="center">Student and data analysis enthusiast, tech lover, Python fan. Curious and dedicated.</h3>
 
-- Currently working as [JR Support Analyst at Certsys Tecnologia da Informação](certsys.com.br/)
+- Currently working as JR Support Analyst at [Certsys Tecnologia da Informação](www.certsys.com.br/)
 
 - Learning at the moment **Python (Pandas and Numpy), SQL, ML and AI, Cloud (Azure) and other cool stuff.**
 
