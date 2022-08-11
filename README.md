@@ -52,3 +52,5 @@
 <a href="https://www.udacity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="udacity"/> </a> 
 <a href="https://pt.coursera.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera"/> </a> 
 </p>
+
+![snake gif](https://github.com/mateusmaturano/mateusmaturano/blob/output/github-contribution-grid-snake.svg)
