@@ -16,7 +16,7 @@
 💻 Languages
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/> </a> 
+<!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/> </a> -->
 
 ⚡ Database
 
