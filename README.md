@@ -31,13 +31,13 @@
 📊 Analytics
 
 <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="googleanalytics"/> </a> 
-<a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> 
+<!-- <a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> -->
 
 
 ☁ Cloud
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"/> </a> 
-<a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> </a> 
+<!-- <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> </a> -->
 
 
 
