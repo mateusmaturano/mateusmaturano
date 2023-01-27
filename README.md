@@ -46,11 +46,11 @@
 
 <h4 align="left">Education:</h3>
 <a href="https://www.datacamp.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="datacamp"/> </a> 
-<a href="https://www.codecademy.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="codecademy"/> </a> 
-<a href="https://www.edx.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="edx"/> </a> 
-<a href="https://www.freecodecamp.org/learn/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp"/> </a> 
-<a href="https://www.udacity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="udacity"/> </a> 
-<a href="https://pt.coursera.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera"/> </a> 
+<!-- <a href="https://www.codecademy.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="codecademy"/> </a> -->
+<!-- <a href="https://www.edx.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="edx"/> </a> -->
+<a href="https://www.freecodecamp.org/learn/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp"/> </a>
+<!-- <a href="https://www.udacity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="udacity"/> </a> -->
+<!-- <a href="https://pt.coursera.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera"/> </a> -->
 </p>
 
 ![snake gif](https://github.com/mateusmaturano/mateusmaturano/blob/output/github-contribution-grid-snake.svg)
