@@ -30,12 +30,15 @@
 
 📊 Analytics
 
+<a href="https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_CjwKCAiAqNSsBhAvEiwAn_tmxaQl6NTLdKdYBvnscY2t3uMwA3m2bYrxOuRqBIZUd3SPlMWAHlRWFhoCyS4QAvD_BwE_k_&OCID=AIDcmmk4cy2ahx_SEM__k_CjwKCAiAqNSsBhAvEiwAn_tmxaQl6NTLdKdYBvnscY2t3uMwA3m2bYrxOuRqBIZUd3SPlMWAHlRWFhoCyS4QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAqNSsBhAvEiwAn_tmxaQl6NTLdKdYBvnscY2t3uMwA3m2bYrxOuRqBIZUd3SPlMWAHlRWFhoCyS4QAvD_BwE"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi">
 <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="googleanalytics"/> </a> 
+<a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> </a>
 <!-- <a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/> </a> -->
 
 
 ☁ Cloud
 
+<a href="https://aws.amazon.com/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"/> </a> 
 <!-- <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> </a> -->
 
@@ -52,5 +55,3 @@
 <!-- <a href="https://www.udacity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="udacity"/> </a> -->
 <!-- <a href="https://pt.coursera.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera"/> </a> -->
 </p>
-
-![snake gif](https://github.com/mateusmaturano/mateusmaturano/blob/output/github-contribution-grid-snake.svg)
