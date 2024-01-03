@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mateus Maturano 👋🏻</h1>
-<h3 align="center">Student and data analysis enthusiast, tech lover, Data and Python fan. Curious and dedicated.</h3>
+<h3 align="center">Data analysis enthusiast, tech lover, Data and Python fan. Curious and dedicated.</h3>
 
-- Currently working as JR Support Analyst at [Certsys Tecnologia da Informação](https://www.certsys.com.br/)
+- Currently working as BI Analyst at [RD]([https://www.certsys.com.br/](https://rd.com.br/))
 
 - Learning at the moment **Python (Pandas, Numpy, Plotly, Matplotlib and Seaborn), SQL, AI (Tensorflow) and other cool stuff.**
 
