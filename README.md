@@ -3,7 +3,9 @@
 
 - Currently working as BI Analyst at [RD]([https://www.certsys.com.br/](https://rd.com.br/))
 
-- Learning at the moment **Python (Pandas, Numpy, Plotly, Matplotlib and Seaborn), SQL, AI (Tensorflow) and other cool stuff.**
+I am a passionate Business Intelligence Analyst with background in statistics and a comprehensive skill set in data analytics and visualization tools. My primary focus is on transforming complex data into valuable insights to support data-driven decision-making and drive business success.
+
+Experienced in the full data cycle, from Extraction, Transformation and Load (ETL) and Exploratory Data Analysis (EDA), interactive dashboards creation, extracting valuable insights from diverse datasets and manipulation of databases.
 
 <h4 align="left">Let's get in touch:</h4>
 <p align="left">
